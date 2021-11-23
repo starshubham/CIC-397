@@ -2,7 +2,7 @@
 
 #Addition of two numbers
 
-number1=10
+number1=100
 
 number2=20
 
